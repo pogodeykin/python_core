@@ -8,5 +8,3 @@ print(int_1)
 print(int_2)
 print(type(int_1))
 print(type(int_2))
-
-
