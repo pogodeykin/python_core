@@ -1,4 +1,3 @@
-
 school = {}
 school["1а"] = 15
 school.update({
